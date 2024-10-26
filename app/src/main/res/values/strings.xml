@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PedirCita</string>
+    <string name="info_disponibilidad">Apertura: Lunes-Viernes 9:00-14:00</string>
+    <string name="reservar">RESERVAR</string>
+    <string name="dni_hint">Introducza su DNI</string>
+    <string name="cita_reservada_correctamente">CITA RESERVADA CORRECTAMENTE</string>
+</resources>
